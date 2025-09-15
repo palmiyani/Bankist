@@ -36,9 +36,6 @@ BankList-main/<br>
    git clone https://github.com/your-username/BankList-main.git
 Open index.html in your browser.
 
-That’s it! 🎉
-
-
 
 👨‍💻 Author
 PAL MIYANI
