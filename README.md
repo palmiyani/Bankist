@@ -6,7 +6,7 @@ It displays a list of banks with their details in a clean and user-friendly UI.
 ---
 
 ## 📂 Project Structure
-BankList-main/<br>
+BankList-main/<br><br>
 ├── index.html # Main HTML file<br>
 ├── style.css # Stylesheet for UI<br>
 ├── script.js # JavaScript functionality<br>
