@@ -12,7 +12,7 @@ BankList-main/<br><br>
 ├── script.js # JavaScript functionality<br>
 └── .prettierrc # Code formatting config<br>
 
-
+ 
 ---
 
 ## ⚙️ Features
